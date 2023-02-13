@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a self-taught front end developer who's from Iran , Mashhad <br>been working on different projects to rocket my skills<br>
+I'm a self-taught front end developer from Iran , Mashhad <br>been working on different projects to rocket my skills<br>
 
 
 ## 🌐 Socials:
